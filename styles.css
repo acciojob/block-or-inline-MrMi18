@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-#btn{
+.btn{
 	data-ns-test:block-inline-button;
 }
 #d1{
